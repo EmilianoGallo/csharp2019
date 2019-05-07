@@ -1,0 +1,11 @@
+C:\CursoNETEG\PruebaClase1\Clase2Csharp\csharp2019\holamundo\bin\Debug\netcoreapp2.2\HolaMundo.deps.json
+C:\CursoNETEG\PruebaClase1\Clase2Csharp\csharp2019\holamundo\bin\Debug\netcoreapp2.2\HolaMundo.runtimeconfig.json
+C:\CursoNETEG\PruebaClase1\Clase2Csharp\csharp2019\holamundo\bin\Debug\netcoreapp2.2\HolaMundo.runtimeconfig.dev.json
+C:\CursoNETEG\PruebaClase1\Clase2Csharp\csharp2019\holamundo\bin\Debug\netcoreapp2.2\HolaMundo.dll
+C:\CursoNETEG\PruebaClase1\Clase2Csharp\csharp2019\holamundo\bin\Debug\netcoreapp2.2\HolaMundo.pdb
+C:\CursoNETEG\PruebaClase1\Clase2Csharp\csharp2019\holamundo\obj\Debug\netcoreapp2.2\HolaMundo.csprojAssemblyReference.cache
+C:\CursoNETEG\PruebaClase1\Clase2Csharp\csharp2019\holamundo\obj\Debug\netcoreapp2.2\HolaMundo.csproj.CoreCompileInputs.cache
+C:\CursoNETEG\PruebaClase1\Clase2Csharp\csharp2019\holamundo\obj\Debug\netcoreapp2.2\HolaMundo.AssemblyInfoInputs.cache
+C:\CursoNETEG\PruebaClase1\Clase2Csharp\csharp2019\holamundo\obj\Debug\netcoreapp2.2\HolaMundo.AssemblyInfo.cs
+C:\CursoNETEG\PruebaClase1\Clase2Csharp\csharp2019\holamundo\obj\Debug\netcoreapp2.2\HolaMundo.dll
+C:\CursoNETEG\PruebaClase1\Clase2Csharp\csharp2019\holamundo\obj\Debug\netcoreapp2.2\HolaMundo.pdb
